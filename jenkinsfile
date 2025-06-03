@@ -129,7 +129,7 @@ pipeline {
             }
 
             environment {
-                CI_ENVIRONMENT_URL = 'PUT YOUR NETLIFY SITE URL HERE'
+                CI_ENVIRONMENT_URL = '9c63d392-cdad-4bfb-9b5b-d11d0222ee87'
             }
 
             steps {
